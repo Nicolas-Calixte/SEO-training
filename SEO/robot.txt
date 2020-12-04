@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow : 
+
+sitemap: http://nicolascalixte.cluster1.easy-hebergement.net/sitemap.xml
